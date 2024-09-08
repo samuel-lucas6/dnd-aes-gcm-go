@@ -1,2 +1,2 @@
-# dnd-aes-gcm-go
-A variant of Double-Nonce-Derive for AES-GCM.
+# DND-AES-GCM
+A variant of [Double-Nonce-Derive](https://csrc.nist.gov/csrc/media/Presentations/2023/constructions-based-on-the-aes-round/images-media/sess-5-gueron-bcm-workshop-2023.pdf) for AES-GCM. In the presentation, it's technically called Double-Nonce-Derive-Key; however, that name overlaps with a [newer construction](https://csrc.nist.gov/csrc/media/Presentations/2024/double-nonce-derive-key-gcm-dndk-gcm/images-media/sess-6-gueron-acm-workshop-2024.pdf) that's completely different.
